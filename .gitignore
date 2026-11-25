@@ -1,0 +1,7 @@
+.aws/
+.gh/
+.tools/
+.terraform/
+*.tfstate*
+*.tfplan
+*.tfvars
